@@ -1,18 +1,17 @@
 # Hermes Agent Build Day 2026
 
-**A one-day, hands-on build event with Hermes Agent — open source, free to join.**
-**Một ngày build AI agent thực tế với Hermes Agent — mã nguồn mở, miễn phí tham gia.**
-
-📍 Ho Chi Minh City · 🗓 Saturday, Oct 31, 2026 · 09:00–17:00 · 🎟 Free (registration & approval required)<br>
-📍 TP.HCM · 🗓 Thứ Bảy, 31/10/2026 · 09:00–17:00 · 🎟 Miễn phí (cần đăng ký và được duyệt)
-
-> Organized by **Vibe AI Labs** · Tổ chức bởi **Vibe AI Labs**
-> *This is an independent community event organized by Vibe AI Labs. It is not affiliated with or endorsed by Nous Research. Hermes Agent is open-source software (MIT) by Nous Research.*
-> *Đây là sự kiện cộng đồng độc lập do Vibe AI Labs tổ chức, không liên kết với và không được bảo trợ bởi Nous Research. Hermes Agent là phần mềm mã nguồn mở (MIT) của Nous Research.*
+[English](#-english) · [Tiếng Việt](#-tiếng-việt)
 
 ---
 
 ## 🇬🇧 English
+
+**A one-day, hands-on build event with Hermes Agent — open source, free to join.**
+
+📍 Ho Chi Minh City · 🗓 Saturday, Oct 31, 2026 · 09:00–17:00 · 🎟 Free (registration & approval required)
+
+> Organized by **Vibe AI Labs**
+> *This is an independent community event organized by Vibe AI Labs. It is not affiliated with or endorsed by Nous Research. Hermes Agent is open-source software (MIT) by Nous Research.*
 
 ### About the event
 
@@ -92,9 +91,49 @@ Judges and mentors: the Vibe AI Labs team.
 
   or the desktop app from [hermes-agent.nousresearch.com](https://hermes-agent.nousresearch.com).
 
+### Repository contents
+
+| File | Description |
+|---|---|
+| `01_Vibe-AI-Labs_Brand.md` | Vibe AI Labs outreach templates: email sequences, partnership forms, X/Facebook/Discord/Telegram messages (EN + VI) |
+| `02_Hermes-Agent-Build-Day-2026.md` | Full event brief: tracks, prizes, judging, agenda, rules, key dates (EN + VI) |
+| `03_Hermes-Build-Day_Banner-Brief.md` | Design brief for the event banner: Luma cover & social post specs, layout, copy, logo usage |
+| `04_Luma-Description.md` | Ready-to-paste Luma event page description (VI + EN) |
+| `Vibe_AI_Labs_Community_Events_Deck_EN.pdf` | Vibe AI Labs community events & partnership deck (English) |
+| `assets/hermes-logo/` | Official Hermes Agent logo assets ("Nous Girl" & app icons), sourced from the official [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) repo |
+
+### Hermes logo assets
+
+| File | Usage |
+|---|---|
+| `assets/hermes-logo/nous-girl-black.svg` | Black logo, transparent background — for light backgrounds |
+| `assets/hermes-logo/nous-girl-white.svg` | White logo, transparent background — for dark backgrounds |
+| `assets/hermes-logo/icon-master.svg` / `icon-master-dark.svg` | App icon (squircle) variants |
+
+> Use the logo as-is: do not recolor, crop, distort, or add elements.
+
+### About Vibe AI Labs
+
+Vibe AI Labs is a Marketing × AI × Creative agency based in Ho Chi Minh City. We run 4 communities with 100,000+ members — AI Agent Việt Nam, the AI Agent Marketing Community, Vibe Marketing Vietnam, and Running ChatGPT Ads Effectively — and have hosted community meetups on AI agents, OpenClaw, and Hermes Agent. We partner with AI projects on hands-on meetups and workshops, Vietnamese docs and video tutorials, community spotlights, AMAs and livestreams, with clear post-event reporting.
+
+### Contact
+
+- **Henry Le** · vibeailabs@gmail.com
+- Website: vibe-ai-labs.vibeailabs.workers.dev
+- Facebook: facebook.com/vibe.ai.labs · X: [x.com/vibe_ai_labs](https://x.com/vibe_ai_labs)
+
+*Hermes Agent is open-source software (MIT) by Nous Research. This repository contains event materials by Vibe AI Labs; the Hermes Agent name and logo belong to their respective owners.*
+
 ---
 
 ## 🇻🇳 Tiếng Việt
+
+**Một ngày build AI agent thực tế với Hermes Agent — mã nguồn mở, miễn phí tham gia.**
+
+📍 TP.HCM · 🗓 Thứ Bảy, 31/10/2026 · 09:00–17:00 · 🎟 Miễn phí (cần đăng ký và được duyệt)
+
+> Tổ chức bởi **Vibe AI Labs**
+> *Đây là sự kiện cộng đồng độc lập do Vibe AI Labs tổ chức, không liên kết với và không được bảo trợ bởi Nous Research. Hermes Agent là phần mềm mã nguồn mở (MIT) của Nous Research.*
 
 ### Giới thiệu sự kiện
 
@@ -174,44 +213,35 @@ Giám khảo và mentor: đội ngũ Vibe AI Labs.
 
   hoặc tải bản Desktop tại [hermes-agent.nousresearch.com](https://hermes-agent.nousresearch.com).
 
----
+### Nội dung repo
 
-## 📁 Repository contents / Nội dung repo
+| File | Mô tả |
+|---|---|
+| `01_Vibe-AI-Labs_Brand.md` | Bộ mẫu outreach của Vibe AI Labs: chuỗi email, form hợp tác, tin nhắn X/Facebook/Discord/Telegram (EN + VI) |
+| `02_Hermes-Agent-Build-Day-2026.md` | Brief đầy đủ của sự kiện: track, giải thưởng, tiêu chí chấm, lịch trình, thể lệ, mốc thời gian (EN + VI) |
+| `03_Hermes-Build-Day_Banner-Brief.md` | Brief thiết kế banner sự kiện: spec Luma cover & bài đăng mạng xã hội, bố cục, nội dung chữ, cách dùng logo |
+| `04_Luma-Description.md` | Mô tả trang sự kiện Luma, sẵn sàng copy-paste (VI + EN) |
+| `Vibe_AI_Labs_Community_Events_Deck_EN.pdf` | Deck giới thiệu sự kiện cộng đồng & gói hợp tác của Vibe AI Labs (tiếng Anh) |
+| `assets/hermes-logo/` | Logo Hermes Agent chính thức ("Nous Girl" & icon app), lấy từ repo chính thức [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) |
 
-| File | Description (EN) | Mô tả (VI) |
-|---|---|---|
-| `01_Vibe-AI-Labs_Brand.md` | Vibe AI Labs outreach templates: email sequences, partnership forms, X/Facebook/Discord/Telegram messages (EN + VI) | Bộ mẫu outreach của Vibe AI Labs: chuỗi email, form hợp tác, tin nhắn X/Facebook/Discord/Telegram (EN + VI) |
-| `02_Hermes-Agent-Build-Day-2026.md` | Full event brief: tracks, prizes, judging, agenda, rules, key dates (EN + VI) | Brief đầy đủ của sự kiện: track, giải thưởng, tiêu chí chấm, lịch trình, thể lệ, mốc thời gian (EN + VI) |
-| `03_Hermes-Build-Day_Banner-Brief.md` | Design brief for the event banner: Luma cover & social post specs, layout, copy, logo usage | Brief thiết kế banner sự kiện: spec Luma cover & bài đăng mạng xã hội, bố cục, nội dung chữ, cách dùng logo |
-| `04_Luma-Description.md` | Ready-to-paste Luma event page description (VI + EN) | Mô tả trang sự kiện Luma, sẵn sàng copy-paste (VI + EN) |
-| `Vibe_AI_Labs_Community_Events_Deck_EN.pdf` | Vibe AI Labs community events & partnership deck (English) | Deck giới thiệu sự kiện cộng đồng & gói hợp tác của Vibe AI Labs (tiếng Anh) |
-| `assets/hermes-logo/` | Official Hermes Agent logo assets ("Nous Girl" & app icons), sourced from the official [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) repo | Logo Hermes Agent chính thức ("Nous Girl" & icon app), lấy từ repo chính thức [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) |
+### Tài nguyên logo Hermes
 
-### Hermes logo assets / Tài nguyên logo Hermes
+| File | Cách dùng |
+|---|---|
+| `assets/hermes-logo/nous-girl-black.svg` | Logo đen, nền trong suốt — dùng trên nền sáng |
+| `assets/hermes-logo/nous-girl-white.svg` | Logo trắng, nền trong suốt — dùng trên nền tối |
+| `assets/hermes-logo/icon-master.svg` / `icon-master-dark.svg` | Biến thể icon app dạng squircle |
 
-| File | Usage (EN) | Cách dùng (VI) |
-|---|---|---|
-| `assets/hermes-logo/nous-girl-black.svg` | Black logo, transparent background — for light backgrounds | Logo đen, nền trong suốt — dùng trên nền sáng |
-| `assets/hermes-logo/nous-girl-white.svg` | White logo, transparent background — for dark backgrounds | Logo trắng, nền trong suốt — dùng trên nền tối |
-| `assets/hermes-logo/icon-master.svg` / `icon-master-dark.svg` | App icon (squircle) variants | Biến thể icon app dạng squircle |
+> Dùng logo nguyên bản: không đổi màu, không cắt, không méo tỷ lệ, không ghép thêm chi tiết.
 
-> Use the logo as-is: do not recolor, crop, distort, or add elements. / Dùng logo nguyên bản: không đổi màu, không cắt, không méo tỷ lệ, không ghép thêm chi tiết.
+### Về Vibe AI Labs
 
----
+Vibe AI Labs là agency Marketing × AI × Creative tại TP.HCM. Chúng tôi vận hành 4 cộng đồng với hơn 100.000 thành viên — AI Agent Việt Nam, Cộng Đồng AI Agent Marketing, Vibe Marketing Việt Nam, Chạy Quảng Cáo ChatGPT Ads Hiệu Quả — và đã tổ chức các buổi meetup cộng đồng về AI agent, OpenClaw và Hermes Agent. Chúng tôi đồng hành cùng các dự án AI qua meetup và workshop thực hành, tài liệu và video hướng dẫn tiếng Việt, giới thiệu trong cộng đồng, AMA, livestream, kèm báo cáo rõ ràng sau sự kiện.
 
-## About Vibe AI Labs / Về Vibe AI Labs
-
-**EN:** Vibe AI Labs is a Marketing × AI × Creative agency based in Ho Chi Minh City. We run 4 communities with 100,000+ members — AI Agent Việt Nam, the AI Agent Marketing Community, Vibe Marketing Vietnam, and Running ChatGPT Ads Effectively — and have hosted community meetups on AI agents, OpenClaw, and Hermes Agent. We partner with AI projects on hands-on meetups and workshops, Vietnamese docs and video tutorials, community spotlights, AMAs and livestreams, with clear post-event reporting.
-
-**VI:** Vibe AI Labs là agency Marketing × AI × Creative tại TP.HCM. Chúng tôi vận hành 4 cộng đồng với hơn 100.000 thành viên — AI Agent Việt Nam, Cộng Đồng AI Agent Marketing, Vibe Marketing Việt Nam, Chạy Quảng Cáo ChatGPT Ads Hiệu Quả — và đã tổ chức các buổi meetup cộng đồng về AI agent, OpenClaw và Hermes Agent. Chúng tôi đồng hành cùng các dự án AI qua meetup và workshop thực hành, tài liệu và video hướng dẫn tiếng Việt, giới thiệu trong cộng đồng, AMA, livestream, kèm báo cáo rõ ràng sau sự kiện.
-
-## Contact / Liên hệ
+### Liên hệ
 
 - **Henry Le** · vibeailabs@gmail.com
 - Website: vibe-ai-labs.vibeailabs.workers.dev
 - Facebook: facebook.com/vibe.ai.labs · X: [x.com/vibe_ai_labs](https://x.com/vibe_ai_labs)
 
----
-
-*Hermes Agent is open-source software (MIT) by Nous Research. This repository contains event materials by Vibe AI Labs; the Hermes Agent name and logo belong to their respective owners.*
 *Hermes Agent là phần mềm mã nguồn mở (MIT) của Nous Research. Repo này chứa tài liệu sự kiện của Vibe AI Labs; tên và logo Hermes Agent thuộc về chủ sở hữu tương ứng.*
