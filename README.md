@@ -1,5 +1,9 @@
 # Hermes Agent Build Day 2026
 
+<p align="center">
+  <img src="assets/banner/hermes-agent-build-day-2026.png" alt="Hermes Agent Build Day 2026 — Vibe AI Labs" width="640">
+</p>
+
 [English](#-english) · [Tiếng Việt](#-tiếng-việt)
 
 ---
@@ -101,6 +105,7 @@ Judges and mentors: the Vibe AI Labs team.
 | `04_Luma-Description.md` | Ready-to-paste Luma event page description (VI + EN) |
 | `Vibe_AI_Labs_Community_Events_Deck_EN.pdf` | Vibe AI Labs community events & partnership deck (English) |
 | `assets/hermes-logo/` | Official Hermes Agent logo assets ("Nous Girl" & app icons), sourced from the official [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) repo |
+| `assets/banner/hermes-agent-build-day-2026.png` | Event banner (1024 × 1024) |
 
 ### Hermes logo assets
 
@@ -223,6 +228,7 @@ Giám khảo và mentor: đội ngũ Vibe AI Labs.
 | `04_Luma-Description.md` | Mô tả trang sự kiện Luma, sẵn sàng copy-paste (VI + EN) |
 | `Vibe_AI_Labs_Community_Events_Deck_EN.pdf` | Deck giới thiệu sự kiện cộng đồng & gói hợp tác của Vibe AI Labs (tiếng Anh) |
 | `assets/hermes-logo/` | Logo Hermes Agent chính thức ("Nous Girl" & icon app), lấy từ repo chính thức [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) |
+| `assets/banner/hermes-agent-build-day-2026.png` | Banner sự kiện (1024 × 1024) |
 
 ### Tài nguyên logo Hermes
 
