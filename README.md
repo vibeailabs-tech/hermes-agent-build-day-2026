@@ -3,7 +3,7 @@
 **A one-day, hands-on build event with Hermes Agent — open source, free to join.**
 **Một ngày build AI agent thực tế với Hermes Agent — mã nguồn mở, miễn phí tham gia.**
 
-📍 Ho Chi Minh City · 🗓 Saturday, Oct 31, 2026 · 09:00–17:00 · 🎟 Free (registration & approval required)
+📍 Ho Chi Minh City · 🗓 Saturday, Oct 31, 2026 · 09:00–17:00 · 🎟 Free (registration & approval required)<br>
 📍 TP.HCM · 🗓 Thứ Bảy, 31/10/2026 · 09:00–17:00 · 🎟 Miễn phí (cần đăng ký và được duyệt)
 
 > Organized by **Vibe AI Labs** · Tổ chức bởi **Vibe AI Labs**
